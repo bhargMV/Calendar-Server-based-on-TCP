@@ -1,0 +1,9 @@
+mourya add 09114 1 2 test1
+mourya add 09114 4 5 test2
+mourya add 09114 6 8 test3
+mourya add 09114 10 12 test4
+mourya add 09114 13 14 test5
+mourya add 09114 15 19 test6
+
+mourya get_number
+
